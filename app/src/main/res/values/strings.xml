@@ -4,4 +4,12 @@
     <string name="hint_Name">Enter your Name</string>
     <string name="hint_Address">Enter your Address</string>
     <string name="hint_contact">Enter your Contact Number</string>
+
+    <string name="tvMain3">Main Activity 3</string>
+    <string name="btnMain3">ADD</string>
+    <string name="btnClick">Click</string>
+    <string name="tvDetail">View Details</string>
+    <string name="tv_Message">Enter Your Name</string>
+    <string name="btn_Donate">Donate</string>
+
 </resources>
